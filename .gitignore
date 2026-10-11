@@ -1,0 +1,7 @@
+# Saved game data
+game.yml
+game-backup.yml
+save.yml
+
+# Editor settings
+.vscode/
